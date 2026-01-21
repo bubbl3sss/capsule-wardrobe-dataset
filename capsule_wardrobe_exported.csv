@@ -1,0 +1,26 @@
+item_id,name,category,color_family,palette_role,silhouette,texture,aesthetic_tags,season,occasion
+T001,Basic White T-Shirt,top,white,neutral,regular fit,cotton,"['clean girl', 'cool girl', 'minimal']","['summer', 'winter', 'spring']","['casual', 'travel']"
+T002,Basic Black T-Shirt,top,black,neutral-dark,regular fit,cotton,"['black swan', 'street chic']","['autumn', 'winter']","['casual', 'day out']"
+T003,Brown Basic T-Shirt,top,brown,earth-tone,regular fit,cotton,"['fall core', 'boho chic']","['autumn', 'winter']",['casual']
+T004,White Ribbed Tank Top,top,white,neutral,fitted,ribbed,"['clean girl', 'street chic', 'cool girl']",['summer'],"['casual', 'everyday']"
+T005,Graphic Baby Tee,top,white,neutral,crop,cotton,"['cool girl', 'street chic']","['summer', 'winter']","['casual', 'college']"
+T006,Sheer Black Top,top,black,dark statement,sheer,mesh,"['black swan', 'evening', 'cool girl']","['autumn', 'summer']","['party', 'evening']"
+T007,Ruched Dressy Top,top,beige,neutral-warm,ruched,polyester,"['feminine', 'desi feminine']","['summer', 'spring']","['dinner', 'outings']"
+T008,Short Kurta,top,sage green,earth-tone,kurta,cotton,"['desi feminine', 'boho chic']","['summer', 'spring', 'winter', 'autumn', 'monsoon']","['casual', 'festive']"
+B001,Light Washed Denim,bottom,denim blue,neutral,bootcut,denim,"['cool girl', 'street chic']","['summer', 'spring', 'autumn']","['casual', 'college']"
+B002,Dark Washed Denim,bottom,midnight blue,neutral-dark,wide leg,denim,"['cool girl', 'street chic']","['winter', 'autumn']","['casual', 'college']"
+B003,Low Waist Wide Leg Jeans,bottom,denim blue,neutral,wide leg,denim,"['street chic', 'cool girl']","['summer', 'spring', 'winter', 'autumn']","['casual', 'college']"
+B004,White Trousers,bottom,white,neutral,straight,cotton,"['clean girl', 'feminine']","['spring', 'summer']","['casual', 'events']"
+B005,Black Trousers,bottom,black,neutral-dark,straight,polyester,"['black swan', 'cool girl']","['winter', 'autumn']","['casual', 'formal']"
+D001,Black Puffy Sleeve Dress,dress,black,dark statement,fit and flare,cotton,"['feminine', 'black swan']","['autumn', 'winter', 'spring']","['casual', 'evening']"
+D002,Bodycon Black Dress,dress,black,dark statement,bodycon,polyester,"['black swan', 'cool girl']","['summer', 'monsoon', 'winter']","['party', 'evening']"
+D003,Floral Picnic Dress,dress,baby pink,soft pastel,fit and flare,cotton,"['feminine', 'boho chic', 'literature']","['spring', 'summer']","['picnic', 'day out']"
+BG001,Black Shoulder Baguette,bag,black,neutral-dark,baguette,polyester,"['cool girl', 'street chic']","['summer', 'winter', 'spring', 'autumn', 'monsoon']",['casual']
+BG002,Beige Shoulder Bag,bag,beige,neutral-warm,shoulder,leather,"['feminine', 'clean girl']","['summer', 'winter', 'spring', 'autumn', 'monsoon']",['casual']
+BG003,Blue Shoulder Bag,bag,baby blue,pastel,shoulder,polyester,"['cool girl', 'street chic']","['summer', 'winter', 'spring', 'autumn', 'monsoon']",['casual']
+BG004,White Shoulder Bag,bag,white,neutral,shoulder,leather,"['clean girl', 'minimal']","['summer', 'winter', 'spring', 'autumn', 'monsoon']","['casual', 'events']"
+BG005,Brown Sling Bag,bag,brown,earth-tone,sling,leather,"['boho chic', 'fall core']","['summer', 'winter', 'spring', 'autumn', 'monsoon']",['casual']
+SH001,Burgundy Shoes,shoes,maroon,statement,loafers,leather,"['cool girl', 'street chic']","['autumn', 'winter']","['college', 'casual']"
+SH002,Black Loafers,shoes,black,neutral-dark,loafers,leather,"['clean girl', 'cool girl']","['summer', 'winter', 'spring', 'autumn', 'monsoon']","['college', 'events']"
+SH003,Beige Ballet Flats,shoes,beige,neutral-warm,flats,polyester,"['feminine', 'clean girl']","['spring', 'summer']","['casual', 'events']"
+SH004,Kolhapuris,shoes,brown,earth-tone,sandals,leather,"['desi feminine', 'boho chic']",['summer'],"['casual', 'festive']"
