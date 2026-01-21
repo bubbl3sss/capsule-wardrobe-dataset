@@ -9,4 +9,4 @@ each item has tags:
 6. aesthetic 
 7. silhouette
 
-i made this dataset for ai stylist.
+i made this dataset for an ai stylist model as a part of kaggle ai agents intensive capstone project
